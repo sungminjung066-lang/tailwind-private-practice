@@ -1,2 +1,3 @@
-# tailwind-private-practice
-tailwind private practice
+# 테일윈드 개인 연습
+
+- 테일윈드로 예제 레벨 1을 완성해보자
